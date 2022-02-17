@@ -2,18 +2,19 @@
 
  <Skil.Course>
       <Hard.Skils>
-                          <skil1>Понимание процессов тестирования и разработки ПО</skil1>
-                          <skil2>Понимание основ тестирования</skil2>
-                          <skil3>Работа с тестовой документацией</skil3>
-                          <skil4>Умение оформлять отчеты о дефектах</skil4>
-                          <skil5>Знание методологий тестирования</skil5>
+                          
+                          <skil1>Understanding software testing and development processes</skil1>
+                          <skil2>Understanding the basics of testing</skil2>
+                          <skil3>Working with test documentation</skil3>
+                          <skil4>Ability to file defect reports</skil4>
+                          <skill5>Knowledge of testing methodologies</skill5>
       </Hard.Skils>
       . . .
       <Soft.Skils> 
-                          <skil1>Умение задавать вопросы</skil1>
-                          <skil2>Любопытство</skil2>
-                          <skil3>Дисциплина</skil3>
-                          <skil4>Помощь</skil4>
-                          <skil5>Желание учиться</skil5>
+                          <skil1>The ability to ask questions</skil1>
+                          <skill2>Curiosity</skill2>
+                          <skill3>Discipline</skill3>
+                          <skill4>Help</skill4>
+                          <skill5>Desire to learn</skill5>
       </Soft.Skils>
  </Skil.Course>
