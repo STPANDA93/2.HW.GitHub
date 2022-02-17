@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<about.self>
+<about.myself>
   <name>Evgeniy</name>
   <surname>Golikov</surname>
-  <patronymic>Valerievich</patronymic>
   <age>28</age>
-  <animals>1</animals>
+  <pets>1</pets>
   <salary>50000</salary>
 </about.myself>
