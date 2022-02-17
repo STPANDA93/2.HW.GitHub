@@ -1,14 +1,14 @@
 Hard Skils:
-Понимание процессов тестирования и разработки ПО
-Понимание основ тестирования
-Работа с тестовой документацией
-Умение оформлять отчеты о дефектах
-Знание методологий тестирования
+Understanding of software testing and development processes
+Understanding the basics of testing
+Working with test documentation
+Ability to write defect reports
+Knowledge of testing methodologies
 
 
 Soft Skils:
-Умение задавать вопросы
-Любопытство 
-Дисциплина
-Помощь
-Желание учиться
+Ability to ask questions
+Curiosity
+Discipline
+Help
+Willingness to learn
