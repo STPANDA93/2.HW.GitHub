@@ -1,1 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+ <bug.report>
+   <id>1</id> 
+   <created.by>Golikov Evgeniy</created.by> 
+   <asigned.to>Vadim Ksendzov</asigned.to>
+   <status>new</status>
+   <priority>medium</priority>
+   <type>bug</type>
+   <found.in>chrome</found.in>
+   <summary>incorect project state in Project viewing mode</summary>
+   <expected.result>the status is renewed</expected.result>
+   <actual.result>the status is not renewed</actual.result>
+ </bug.report>
