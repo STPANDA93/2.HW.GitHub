@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<о.себе>
-  <фамилия>Голиков</фамилия>
-  <имя>Евгений</имя>
-  <отчество>Валерьевич</отчество>
-  <возраст>28</возраст>
-  <животные>1</животные>
-  <зарплата>50000</зарплата>
-</о.себе>
+<about.self>
+  <name>Evgeniy</name>
+  <surname>Golikov</surname>
+  <patronymic>Valerievich</patronymic>
+  <age>28</age>
+  <animals>1</animals>
+  <salary>50000</salary>
+</about.myself>
