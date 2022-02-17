@@ -12,7 +12,7 @@
 9. Создать файл preferences.txt  ===  touch preferences.txt
 10. В файл preferences.txt” добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, страна которую хотели бы посетить) в формате TXT.  ===  vim preferences.txt
 11. Создать файл sklls.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT  ===  vim sklls.txt
-12. Сделать коммит в одну строку.  ===  git commit -am "new.txt changes"
+12. Сделать коммит в одну строку.  ===  git add . && git commit -m"add 2 files"
 13. Отправить сразу 2 файла на внешний репозиторий.  ===  git push
 14. На веб интерфейсе создать файл bug\_report.txt.  ===  add file>create new file
 15. Сделать Commit changes (сохранить) изменения на веб интерфейсе.  ===  commit new file
